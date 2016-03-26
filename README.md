@@ -1,2 +1,7 @@
-# greedy_coloring_visualization
-done using graphviz...main code in python
+# Greedy coloring Visualization
+
+contributors:
+Arjun
+Suhas
+Vinod
+
