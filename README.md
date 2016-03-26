@@ -1,7 +1,7 @@
 # Greedy coloring Visualization
 
 contributors:
-Arjun
-Suhas
+Arjun,
+Suhas,
 Vinod
 
